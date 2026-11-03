@@ -12,7 +12,8 @@ public class DBConnection {
 
     private static final String USER = "root";
 
-    private static final String PASSWORD = "12345";
+    // Update this with your MySQL password
+    private static final String PASSWORD = "your_password";
 
     public static Connection getConnection() throws SQLException {
 
