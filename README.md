@@ -85,8 +85,6 @@ Compile the project:
 
 mvn compile
 
-Run the application:
-
 mvn org.codehaus.mojo:exec-maven-plugin:3.5.0:java -Dexec.mainClass=Main
 
 🎯 Learning Outcomes
